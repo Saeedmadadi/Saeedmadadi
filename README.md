@@ -2,6 +2,7 @@
 - 👀 I’m interested in programring
 - 🌱 I’m currently learning Python & Solidity & Financial Analyst and Trading Robot
 - 🌱 I’m working in the field of  cryptocurrencies and forex
+- 📫 i have bachelor of acconting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
